@@ -1,5 +1,6 @@
+# Music Downloader
 A python based telegram bot to download music online via deezer!
 
 # Deploy
-<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Rexinazor/Music_Downloader)
 
