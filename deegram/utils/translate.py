@@ -5,7 +5,7 @@ YOUTUBE = "https://www.youtube.com/channel/UCigq8CVltGNAM-hs6cAC8mw"
 WELCOME_MSG = (
     f"🎶🎵 Welcome to {BOT_NAME} 🎵🎶\n\n"
     "Click /help for more information\n\n"
-    "join @finiteyt for more bots"
+    "join @BioHazard_Bots for more bots"
 )
 INFO_MSG = (
     f"👤 Creator: {CREATOR}\n"
