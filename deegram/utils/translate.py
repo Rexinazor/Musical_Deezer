@@ -1,7 +1,7 @@
 VERSION = "0.2.4"
-CREATOR = "@finite_xd"
+CREATOR = "@BioHazard_Bots"
 BOT_NAME = "FINITE MUSIC"
-YOUTUBE = "https://www.youtube.com/channel/UCigq8CVltGNAM-hs6cAC8mw"
+FEDERATION = "TheHazardNetwork"
 WELCOME_MSG = (
     f"🎶🎵 Welcome to {BOT_NAME} 🎵🎶\n\n"
     "Click /help for more information\n\n"
@@ -10,7 +10,7 @@ WELCOME_MSG = (
 INFO_MSG = (
     f"👤 Creator: {CREATOR}\n"
     f"ℹ Version: {VERSION}\n"
-    f"🍩 Youtube: {YOUTUBE}"
+    f"🍩 Federation: {FEDERATION}"
 )
 STATS_MSG = (
     "**Bot Uptime:** {}\n"
@@ -24,7 +24,7 @@ STATS_MSG = (
     "**DISK:** {}"
 )
 HELP_MSG = (
-    "Search by Album or Track or just send me a Deezer Track or Album link and I will download it for you bot by @finite_xd\n\n"
+    "Search by Album or Track or just send me a Deezer Track or Album link and I will download it for you bot by @BioHazard_Bots\n\n"
     "**List of all commands:**\n"
     "/start - Get the welcome message\n"
     "/help - Get this message\n"
