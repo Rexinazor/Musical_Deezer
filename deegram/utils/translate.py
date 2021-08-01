@@ -1,9 +1,9 @@
 VERSION = "0.2.4"
 CREATOR = "@BioHazard_Bots"
-BOT_NAME = "FINITE MUSIC"
+BOT_NAME = "MellowD MUSIC"
 FEDERATION = "TheHazardNetwork"
 WELCOME_MSG = (
-    f"🎶🎵 Welcome to {BOT_NAME} 🎵🎶\n\n"
+    f"🎵 Welcome to {BOT_NAME} 🎵\n\n"
     "Click /help for more information\n\n"
     "join @BioHazard_Bots for more bots"
 )
